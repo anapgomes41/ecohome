@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+@import url('estilos/header.css');
+@import url('estilos/categorias.css');
+@import url('estilos/dicas.css');
+@import url('estilos/checklist.css');
+@import url('estilos/footer.css');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --fundo-principal: #E2F0CB;
+  --cartoes: #CCE2CB;
+  --botoes: #FFB6B9;
+  --fundo-de-secoes: #FFEFDA;
+  --azul-pastel: #D6EAF8;
+  --cinza-claro: #F2F2F2;
+  --verde-escuro: #4D6659;
+  --fonte-principal: 'Poppins', sans-serif;
+}
+
+body {    
+  background: radial-gradient(circle, #E2F0CB, #9dafa6);
+  font-family: var(--fonte-principal);
+  font-size: 16px;
+  color: var(--verde-escuro);
+}
+
