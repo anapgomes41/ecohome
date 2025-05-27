@@ -23,7 +23,7 @@ Apresentar um modelo de site educativo e visualmente agradável que incentive a�
 
 ## 💻 Demonstração
 
-**(link do GitHub Pages será adicionado aqui após publicação)**
+**( https://anapgomes41.github.io/ecohome/ )**
 
 
 ## ✍️ Autora
